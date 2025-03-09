@@ -1,5 +1,6 @@
-#include <iostream>
-int main() {
-    std::cout<<"hello,world!"<<std::endl;
+#include<iostream>
+int main()
+{
+    cout<<"helloworld!"<<;
     return 0;
 }
